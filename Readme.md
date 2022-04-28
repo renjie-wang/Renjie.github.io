@@ -1,5 +1,5 @@
 # My page
-This will be my home page
+This will be my magnifigue home page
 
 ## ToDo list
  - [ ] 1. Local Repository 
